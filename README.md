@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# A movie App by using ReactJS and Materialize
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App], and styled by using Materialize. The api is a free movie api, available @ https://api.themoviedb.org. 
+
+In this project, requests are made by using axios api. 
+
 
 ## Available Scripts
 
